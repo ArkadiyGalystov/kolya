@@ -565,6 +565,8 @@
   left: 0;
   flex-wrap: wrap;
   align-content: center;
+  position: fixed;
+  z-index: 1;
 }
 
 .popup {
